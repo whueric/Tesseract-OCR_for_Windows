@@ -18,8 +18,8 @@ A simple *test_tesseract.bat* is available to show how to run OCR on different i
 * [tesseract 3.05](https://github.com/tesseract-ocr/tesseract)
 
 ## Dependency Hierarchy
-* Tesseract 
-*    |
-*  leptonica
-*    |
-*  giflib, libtiff, libjpeg, libpng, jbig2enc, webp, zlib
+* tesseract 
+    |
+  leptonica
+    |
+  giflib, libtiff, libjpeg, libpng, jbig2enc, webp, zlib
